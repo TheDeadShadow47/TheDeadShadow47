@@ -75,10 +75,7 @@
 ## `// PHILOSOPHY`
 
 ```
-Systems don't lie.
-Write code that respects how the machine actually works —
-not how you wish it worked.
-Understand the layer below you. Always.
+It is the privilege of the gods to want nothing, and of godlike men to want little.
 ```
 
 <img src="./assets/divider.svg" width="100%"/>
